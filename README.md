@@ -8,7 +8,7 @@
 <p>Exclusão de produtos: Remova produtos do seu estoque de forma definitiva.</p>
 <h1>Tecnologias utilizadas</h1>
 <p>HTML: Linguagem de marcação utilizada para estruturar o conteúdo do site.</p>
-<p>CSS: Linguagem de estilização utilizada para definir a aparência visual do site.</p>/
+<p>CSS: Linguagem de estilização utilizada para definir a aparência visual do site.</p>
 <p>JavaScript: Linguagem de programação utilizada para adicionar interatividade e funcionalidades ao site.</p>
 <p>ReactJS: Biblioteca front-end JavaScript de código aberto utilizada para a criação de interfaces de usuário (UI)</p>
 <p>Vercel: Plataforma de hospedagem utilizada para disponibilizar o site online.</p>
