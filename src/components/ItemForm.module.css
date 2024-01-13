@@ -1,0 +1,74 @@
+.itemForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 400px;
+  width: 100%;
+}
+
+.listInput {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 1rem;
+  flex-direction: column;
+}
+
+.groupInput {
+  display: flex;
+  flex-direction: column;
+}
+
+.groupInput label {
+  font-size: 1.2rem;
+  margin-bottom: .3rem;
+}
+
+.groupInput input {
+  padding: .5rem .5rem;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.groupInput select {
+  padding: .5rem;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.description {
+  padding: 0 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.description label {
+  margin-bottom: .3rem;
+  font-size: 1.2rem;
+}
+
+.description textarea {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  resize: none;
+  padding: .2rem .5rem;
+  color: #333;
+}
+
+.btnSave {
+  display: block;
+  max-width: 300px;
+  width: 100%;
+  padding: .7rem 1rem;
+  border: none;
+  border-radius: 1rem;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.3rem;
+  background-color: #109010;
+}

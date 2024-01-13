@@ -1,0 +1,81 @@
+.home {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.info {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}
+
+.infoItem {
+  background-color: #fff;
+  padding: 1rem;
+  color: #333;
+  display: flex;
+  font-size: 1.1rem;
+  flex-direction: column;
+  max-width: 250px;
+  width: 100%;
+  height: 150px;
+  border-radius: 1rem;
+}
+
+.infoItem span {
+  margin: 1.5rem auto 0 auto;
+  font-size: 3rem;
+  font-weight: 800;
+  color: #fb1;
+}
+
+.infoDetails {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.infoDetails table {
+  padding: 1rem;
+}
+
+.detailsRecents thead tr,
+.detailsFinishing thead tr {
+  display: flex;
+  gap: 4rem;
+  margin-bottom: 1rem;
+  padding-bottom: .5rem;
+  border-bottom: 2px solid #fb1;
+}
+
+.detailsRecents th,
+.detailsFinishing th {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.detailsRecents tbody tr,
+.detailsFinishing tbody tr {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  align-items: center;
+  margin-bottom: .5rem;
+  padding-bottom: .2rem;
+}
+
+.detailsRecents tbody tr a,
+.detailsFinishing tbody tr a {
+  background-color: #fb1;
+  padding: .4rem .8rem;
+  border-radius: 1rem;
+  color: #333;
+  font-weight: 700;
+}

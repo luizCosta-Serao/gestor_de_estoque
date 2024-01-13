@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  border-bottom: 2px solid #fb1;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.menuPrincipal {
+  display: flex;
+  gap: 2rem;
+}
+
+.menuPrincipal li {
+  font-size: 1.2rem;
+}

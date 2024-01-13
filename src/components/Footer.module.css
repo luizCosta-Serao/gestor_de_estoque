@@ -1,0 +1,13 @@
+.footer {
+  margin-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 1.125rem;
+}
+
+.footer p span {
+  font-weight: 600;
+}
